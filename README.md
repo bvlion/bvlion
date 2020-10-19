@@ -1,7 +1,7 @@
-### こんにちは👋(･ω･\*)
+### こんにちは (\*･ω･)ﾉ。
 
-得意ではありませんが、Vim と Kotlin が好きなのんびり屋です(\*･ω･\*)  
-ポンデライオンのような「ω」←の口をしたキャラに弱い…(\*･ω･\*)
+Vim と Kotlin が好きなのんびり屋エンジニアです(\*･ω･\*)  
+ポンデライオンのような「ω」←の口をしたキャラに弱い…
 
 [![](https://raw.githubusercontent.com/bvlion/bvlion/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/bvlion/bvlion/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
