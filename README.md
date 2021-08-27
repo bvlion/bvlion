@@ -1,7 +1,7 @@
 ### こんにちは (\*･ω･)ﾉ。
 
 Vim と Kotlin が好きなのんびり屋エンジニアです(\*･ω･\*)  
-[シェブ！](https://play.google.com/store/apps/details?id=net.ambitious.android.sharebookmarks)というアプリを作りました(･∀･)  
+[シェブ！](https://play.google.com/store/apps/details?id=net.ambitious.android.sharebookmarks)というアプリを個人で作りました(･∀･)  
 ポンデライオンのような「ω」←の口をしたキャラに弱い…
 
 [![](https://raw.githubusercontent.com/bvlion/bvlion/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
