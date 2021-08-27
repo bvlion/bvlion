@@ -1,6 +1,6 @@
 ### こんにちは (\*･ω･)ﾉ。
 
-Vim（キーバインドだけ）と Kotlin が好きなのんびり屋エンジニアです(\*･ω･\*)  
+Kotlin と Vim（キーバインドだけ）が好きなのんびり屋エンジニアです(\*･ω･\*)  
 [シェブ！](https://play.google.com/store/apps/details?id=net.ambitious.android.sharebookmarks)というアプリを個人で作りました(･∀･)  
 ポンデライオンのような「ω」←の口をしたキャラに弱い…
 
