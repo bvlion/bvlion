@@ -1,28 +1,13 @@
 ### こんにちは (\*･ω･)ﾉ。
 
 Kotlin と Vim（キーバインドだけ）が好きなのんびり屋エンジニアです(\*･ω･\*)  
-[シェブ！](https://play.google.com/store/apps/details?id=net.ambitious.android.sharebookmarks)というアプリを個人で作りました(･∀･)  
 ポンデライオンのような「ω」←の口をしたキャラに弱い…
 
-[![](https://raw.githubusercontent.com/bvlion/bvlion/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/bvlion/bvlion/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/bvlion/bvlion/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/bvlion/bvlion/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![profile-details](https://raw.githubusercontent.com/bvlion/bvlion/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
 
-![](https://komarev.com/ghpvc/?username=bvlion&color=green)
+![repos-per-language](https://raw.githubusercontent.com/bvlion/bvlion/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
+![most-commit-language](https://raw.githubusercontent.com/bvlion/bvlion/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)
+![stats](https://raw.githubusercontent.com/bvlion/bvlion/main/profile-summary-card-output/nord_dark/3-stats.svg)
+![productive-time](https://raw.githubusercontent.com/bvlion/bvlion/main/profile-summary-card-output/nord_dark/4-productive-time.svg)
 
-
-<!--
-**bvlion/bvlion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![profile view](https://komarev.com/ghpvc/?username=bvlion&color=green)
